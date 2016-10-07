@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_login">CanadianLoginActivity</string>
     <string name="login_textview">Login as a Canadian</string>
-    <string name="hello_message">Hello Canada!</string>
-    <string name="app_name">Lab 2</string>
-    <string name="ButtonText">I\'m a button, eh</string>
+    <string name="startChatButtonText">Start Chat, eh.</string>
+    <string name="chatFieldHint">Enter message</string>
+    <string name="sendChatMessageButtonHint">Send</string>
 </resources>

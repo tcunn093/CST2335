@@ -15,12 +15,15 @@
         android:text="Button 1"/>
 
     <CheckBox
-        android:text="Button 2"/>
+        android:text="Button 2"
+        android:id="@+id/testCheckBox"/>
 
     <Switch
-        android:text="Enable Something"/>
+        android:text="Enable Something"
+        android:id="@+id/testSwitch"/>
 
-    <ImageButton android:background="@android:drawable/btn_star_big_on" />
+    <ImageButton android:background="@android:drawable/btn_star_big_on"
+        android:id="@+id/imageButton"/>
 
 
 </GridLayout>

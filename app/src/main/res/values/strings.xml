@@ -4,5 +4,11 @@
     <string name="ButtonText">I\'m a button</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="login_textview">Login</string>
-
+    <string name="dialog_title">End the Activity</string>
+    <string name="dialog_message">Finish Activity?</string>
+    <string name="ok">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="startChatButtonText">Start Chat</string>
+    <string name="chatFieldHint">Enter message</string>
+    <string name="sendChatMessageButtonHint">Send</string>
 </resources>
